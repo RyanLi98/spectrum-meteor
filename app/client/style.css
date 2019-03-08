@@ -1,0 +1,155 @@
+body {
+  background-image: url("http://spectrum-photonics.com/wp-content/uploads/2013/06/bg3.gif");
+}
+
+.ui.borderless.topmenu.menu {
+  margin: auto;
+  margin-top:30px;
+  padding-bottom:2px;
+  background-color: #ffffff;
+  box-shadow:25px;
+  border:100px 100px #bbb;
+  max-width:1038px;
+}
+
+.search {
+  padding:13px 33px 85px 33px;
+  color: #eaeaea;
+  border-color:transparent;
+  font-style:italic;
+  font-size: 5em;
+}
+.linkedin{
+  padding:13px 0px 85px 85px;
+  color: #eaeaea;
+  border-color:transparent;
+  font-style:italic;
+  font-size: 5em;
+}
+
+.ui.borderless.middle.menu {
+  margin: auto;
+  background-color: #ffffff;
+  box-shadow:25px;
+  max-width:1038px;
+  padding-top:10px;
+  padding-bottom:10px;
+  font-weight:400;
+}
+
+div:hover {
+  color:#860038;
+}
+
+hr {
+  margin-top:0px;
+  background-color:#860038;
+  padding-bottom:5px;
+}
+
+.menu-item {
+  font-size:14px;
+  color:gray;
+}
+
+.grad-background {
+  background-image: url("http://spectrum-photonics.com/wp-content/uploads/2013/06/DSC_81631-1038x460.jpg");
+  background-size: cover;
+  width:1038px;
+  margin:auto;
+  height: 450px;
+}
+
+.picture.label {
+  background-color:#860038;
+  color:white;
+  font-size:24px;
+  font-family:'Georgia',sans-serif;
+  margin-right:20px;
+  margin-top:175px;
+  padding-bottom:15px;
+  padding-top:15px;
+  padding-left:20px;
+  margin-left:180px;
+}
+
+.picture.description {
+  color:white;
+  background-color: #555555;
+  font-size:14px;
+  font-family:'PT Sans', sans-serif;
+  margin-top:5px;
+  margin-right:20px;
+  margin-left:90px;
+  padding: 20px 20px 20px 20px;
+}
+
+.ui.borderless.lowmidmenu.menu {
+  margin: auto;
+  padding-top:30px;
+  padding-bottom:50px;
+  background-color: #ffffff;
+  box-shadow:25px;
+  border:100px 100px #bbb;
+  max-width:1038px;
+  padding-right:5px;
+}
+
+.higher-footer-header {
+  font-size: 20px;
+  color: #555555;
+  font-weight:normal;
+  padding-top:30px;
+  margin-bottom:15px;
+  padding-left:15px;
+}
+
+.higher-footer-text {
+  font-size: 14px;
+  padding-top:5px;
+  color: #777777;
+  font-weight:normal;
+  margin-bottom:15px;
+  padding-left:15px;
+}
+
+.ui.borderless.bottommenu.menu {
+  margin: auto;
+  padding-top:30px;
+  padding-bottom:20px;
+  background-color: #f4f4f4;
+  border-color:transparent;
+  box-shadow:25px;
+  max-width:1038px;
+  padding-left:100px;
+}
+
+.footer-text {
+  font-size: 14px;
+  color: #777777;
+  font-weight:normal;
+  margin-bottom:8px;
+  padding-left:15px;
+}
+
+.ui.borderless.copyrightmenu.menu {
+  margin: auto;
+  margin-bottom:20px;
+  background-color: #fff;
+  box-shadow:25px;
+  max-width:1038px;
+  height: 60px;
+}
+
+.copyright.text {
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-left:30px;
+  color:#999999;
+}
+.linkedinfooter {
+  padding:30px 0px 45px 500px;
+  color: #eaeaea;
+  font-style:italic;
+  font-size: 5em;
+}
